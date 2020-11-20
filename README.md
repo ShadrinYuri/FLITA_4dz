@@ -71,7 +71,7 @@
 
 ## Результат работы: 
 
-![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/terminal.png "териминал ДЗ4")
+![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/term.png "териминал ДЗ4")
 
 ## Результат работы:
 
