@@ -173,7 +173,6 @@ int main(void){
 		for (int k = 0; k < n; ++k){
 			sum += mtx[i][k];
 		}
-		sum -= mtx[i][i];
 		head_grade[i] = sum;
 		sum = 0;
 	}
@@ -188,7 +187,6 @@ int main(void){
 
 	int swap = 0;
 
-	printf("\n");
 	for (int i = 0; i < n; ++i){
 		int min = i;
 		for (int k = i; k < n; ++k){

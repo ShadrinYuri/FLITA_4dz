@@ -11,7 +11,6 @@
 		for (int k = 0; k < n; ++k){
 			sum += mtx[i][k];
 		}
-		sum -= mtx[i][i];
 		head_grade[i] = sum;
 		sum = 0;
 	}
