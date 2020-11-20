@@ -1,1 +1,1 @@
-digraph G {mom->che;mom->loh;lol->mom;lol->kek;lol->che;kek->lol;kek->loh;che->che;che->loh;}
+digraph G {a->b;a->c;b->a;b->d;c->a;c->b;d->a;d->b;d->c;d->d;}
