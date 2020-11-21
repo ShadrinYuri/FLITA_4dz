@@ -69,10 +69,14 @@
 	}
 ```
 
+## Блок-схема алгоритма:
+
+![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/ДЗ4.png "блок-схема ДЗ4")
+
 ## Результат работы: 
 
 ![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/term.png "териминал ДЗ4")
 
-## Результат работы:
+## Отображение графа:
 
-![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/test.png "териминал ДЗ")
+![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/test.png "граф ДЗ")
