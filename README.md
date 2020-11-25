@@ -71,7 +71,7 @@
 
 ## Блок-схема алгоритма:
 
-![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/ДЗ4.png "блок-схема ДЗ4")
+![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/scheme.png "блок-схема ДЗ4")
 
 ## Результат работы: 
 
