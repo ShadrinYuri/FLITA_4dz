@@ -71,7 +71,7 @@
 
 ## Структурная схема алгоритма:
 
-![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/ДЗ4.png "структурная схема ДЗ4")
+![Alt-текст](https://github.com/igorkorobenko/FLITA_4dz/blob/main/str_scheme.png "структурная схема ДЗ4")
 
 ## Результат работы: 
 
